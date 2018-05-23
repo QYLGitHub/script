@@ -5,3 +5,4 @@
 <a href="time2time.py">get_loca_ip.py</a>:获取本机ip以及外网ip<br>
 <a href="time2time.py">make_zip.py</a>:创建后缀为.zip的压缩文件<br>
 <a href="time2time.py">restart_self.py</a>:重启当前程序<br>
+<a href="time2time.py">timeout.py</a>:函数运行超时装饰器<br>
