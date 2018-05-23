@@ -3,9 +3,9 @@ import sys
 
 
 def restart_program():
-    # 自重启
+    """重启当前程序， 自重启
+    """
     python = sys.executable
-    print(sys.argv)
     os.execl(python, python, *sys.argv)
 
 
