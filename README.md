@@ -8,3 +8,4 @@
 <a href="timeout.py">timeout.py</a>:函数运行超时装饰器<br>
 <a href="flatten.py">flatten.py</a>:展平任何嵌套的可迭代对象（仅包括list, tuple, set）<br>
 <a href="Models.py">Models.py</a>:使用ORM方式管理Python变量适用：全局配置、全局变量<br>
+<a href="send_email.py">send_email.py</a>:python发送邮件类支持附件<br>
